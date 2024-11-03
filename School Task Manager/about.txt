@@ -1,0 +1,4 @@
+The School Task Manager has
+Reminders
+Clears Reminders
+Starts your education file directory!
