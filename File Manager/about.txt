@@ -1,0 +1,2 @@
+Welcome to File Manager!
+You can create, view, and open files!
